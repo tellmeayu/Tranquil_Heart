@@ -11,6 +11,11 @@ Tranquil Heart provides an active approach to meditation through three interacti
 - Minimalist UI design
 - Real-time audio synthesis and manipulation
 
+For more details: https://www.sylviastudio.cn/tranquil-heart-overview/
+
+A demo video of one of the mini games (Harmony With Me): https://www.bilibili.com/video/BV1ow7tziEZn
+
+
 ## Requirements
 - iOS/iPadOS 15.0+
 - Swift 5.5+
@@ -23,7 +28,3 @@ Tranquil Heart provides an active approach to meditation through three interacti
 
 ## License
 Copyright © 2025. All rights reserved.
-
----
-Check author's blog for more details: https://www.sylviastudio.cn/tranquil-heart-overview/
-A demo video for one of the mini games: https://www.bilibili.com/video/BV1ow7tziEZn
